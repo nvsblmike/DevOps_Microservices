@@ -1,3 +1,6 @@
+<paste log output from Kubernetes-mediated prediction, here>
+
+
 (.nvsbl) voclabs:~/environment/DevOps_Microservices/project-ml-microservice-kubernetes (master) $ ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "nvsbl" already exists
 NAME    READY   STATUS    RESTARTS   AGE
